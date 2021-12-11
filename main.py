@@ -7,6 +7,8 @@ def main():
     print(arr)
     arr = ops.sort(arr)
     print(arr)
+    arr = ops.reverse(arr)
+    print(arr)
 
 
 if __name__ == "__main__":
